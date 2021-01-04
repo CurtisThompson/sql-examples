@@ -1,0 +1,317 @@
+Category,Name,Status,Rarity Winter,Rarity Summer,Rarity Breeding,Rarity Passage,Rarity Vagrant,Rarity Feral,Rarity Escapee,Rarity Overall,Taxon
+A,Mute Swan,WS5; B4-5,5,5,4,0,0,0,0,5,Cygnus olor
+A,Bewick's Swan,WP4,4,0,0,4,0,0,0,4,Cygnus columbianus
+A,Whooper Swan,WP3,3,0,0,3,0,0,0,3,Cygnus cygnus
+A,Bean Goose,W2,2,0,0,0,0,0,0,2,Anser fabalis
+A,Pink-footed Goose,P4-5; W3; E,3,0,0,4,0,0,-1,4,Anser brachyrhynchus
+A,White-fronted Goose,W3-4; E,3,0,0,0,0,0,-1,3,Anser albifrons
+C,Greylag Goose,F5-6; B3-4,0,0,3,0,0,5,0,5,Anser anser
+C,Canada Goose,F6; B5,0,0,5,0,0,6,0,6,Branta canadensis
+A,Barnacle Goose,F/E4; W2,2,0,0,0,0,4,4,4,Branta leucopsis
+A,Brent Goose,WP3,3,0,0,3,0,0,0,3,Branta bernicla
+C,Egyptian Goose,F4; B3,0,0,3,0,0,4,0,4,Alopochen aegyptiaca
+A,Shelduck,WP4; B3,4,0,3,4,0,0,0,4,Tadorna tadorna
+C,Mandarin,F4; B3,0,0,3,0,0,4,0,4,Aix galericulata
+A,Wigeon,WP6; S3,6,3,0,6,0,0,0,6,Mareca penelope
+A,American Wigeon,V1,0,0,0,0,1,0,0,1,Mareca americana
+A,Gadwall,WP6; B4,6,0,4,6,0,0,0,6,Mareca strepera
+A,Teal,WP6; B2,6,0,2,6,0,0,0,6,Anas crecca
+A,Green-winged Teal,V1,0,0,0,0,1,0,0,1,Anas carolinensis
+A,Mallard,W6; B5,6,0,5,0,0,0,0,6,Anas platyrhynchos
+A,Pintail,WP4-5,4,0,0,4,0,0,0,4,Anas acuta
+A,Garganey,P3-4; B1,0,0,1,3,0,0,0,3,Spatula querquedula
+A,Blue-winged Teal,V1,0,0,0,0,1,0,0,1,Spatula discors
+A,Shoveler,W5; B2-3,5,0,2,0,0,0,0,5,Spatula clypeata 
+A,Red-crested Pochard,WP3,3,0,0,3,0,0,0,3,Netta rufina
+A,Pochard,WP5-6; B2,5,0,2,5,0,0,0,5,Aythya ferina
+A,Redhead,V1,0,0,0,0,1,0,0,1,Aythya americana
+A,Ring-necked Duck,V1,0,0,0,0,1,0,0,1,Aythya collaris
+A,Ferruginous Duck,WP2,2,0,0,2,0,0,0,2,Aythya nyroca
+A,Tufted Duck,WP6; B4,6,0,4,6,0,0,0,6,Aythya fuligula
+A,Scaup,WP4,4,0,0,4,0,0,0,4,Aythya marila
+A,Lesser Scaup,V1,0,0,0,0,1,0,0,1,Aythya affinis
+A,Eider,WP2,2,0,0,2,0,0,0,2,Somateria mollissima
+A,Long-tailed Duck,W2,2,0,0,0,0,0,0,2,Clangula hyemalis
+A,Common Scoter,P4; W3,3,0,0,4,0,0,0,4,Melanitta nigra
+A,Velvet Scoter,W2,2,0,0,0,0,0,0,2,Melanitta fusca
+A,Goldeneye,WP5; S3,5,3,0,5,0,0,0,5,Bucephala clangula
+A,Smew,W4,4,0,0,0,0,0,0,4,Mergellus albellus
+A,Red-breasted Merganser,WP3,3,0,0,3,0,0,0,3,Mergus serrator
+A,Goosander,WP5,5,0,0,5,0,0,0,5,Mergus merganser
+C,Ruddy Duck,FW4; B3,4,0,3,0,0,4,0,4,Oxyura jamaicensis
+B,Red Grouse,extinct resident,0,0,0,0,0,0,0,0,Lagopus lagopus
+B,Black Grouse,extinct resident,0,0,0,0,0,0,0,0,Lyrurus tetrix
+C,Red-legged Partridge,FB5,0,0,5,0,0,5,0,5,Alectoris rufa
+A,Grey Partridge,B4,0,0,4,0,0,0,0,4,Perdix perdix
+A,Quail,SB3,0,3,3,0,0,0,0,3,Coturnix coturnix
+C,Pheasant,FB6,0,0,6,0,0,6,0,6,Phasianus colchicus
+A,Red-throated Diver,W2,2,0,0,0,0,0,0,2,Gavia stellata
+A,Black-throated Diver,W2,2,0,0,0,0,0,0,2,Gavia arctica
+A,Great Northern Diver,W2-3,2,0,0,0,0,0,0,2,Gavia immer
+A,Little Grebe,B4-5,0,0,4,0,0,0,0,4,Tachybaptus ruficollis
+A,Great Crested Grebe,WP5-6; B4,5,0,4,5,0,0,0,5,Podiceps cristatus
+A,Red-necked Grebe,WP3,3,0,0,3,0,0,0,3,Podiceps grisegena
+A,Slavonian Grebe,WP3,3,0,0,3,0,0,0,3,Podiceps auritus
+A,Black-necked Grebe,SP4; W2,2,4,0,4,0,0,0,4,Podiceps nigricollis
+A,Fulmar,V2,0,0,0,0,2,0,0,2,Fulmarus glacialis
+A,Manx Shearwater,V2,0,0,0,0,2,0,0,2,Puffinus puffinus
+A,Storm Petrel,V1,0,0,0,0,1,0,0,1,Hydrobates pelagicus
+A,Leach's Petrel,V2,0,0,0,0,2,0,0,2,Oceanodroma leucorhoa
+A,Gannet,V2,0,0,0,0,2,0,0,2,Morus bassanus
+A,Cormorant,WPB5,5,0,5,5,0,0,0,5,Phalacrocorax carbo
+A,Shag,WP3,3,0,0,3,0,0,0,3,Phalacrocorax aristotelis
+A,Bittern,W3,3,0,0,0,0,0,0,3,Botaurus stellaris
+A,Little Bittern,V1,0,0,0,0,1,0,0,1,Ixobrychus minutus
+A,Night Heron,V1,0,0,0,0,1,0,0,1,Nycticorax nycticorax
+A,Squacco Heron,V1,0,0,0,0,1,0,0,1,Ardeola ralloides
+A,Cattle Egret,V1,0,0,0,0,1,0,0,1,Bubulcus ibis
+A,Little Egret,SP4,0,4,0,4,0,0,0,4,Egretta garzetta
+A,Great White Egret,V2,0,0,0,0,2,0,0,2,Ardea alba
+A,Grey Heron,B5,0,0,5,0,0,0,0,5,Ardea cinerea
+A,Purple Heron,V1,0,0,0,0,1,0,0,1,Ardea purpurea
+A,Black Stork,V1,0,0,0,0,1,0,0,1,Ciconia nigra
+A,White Stork,V1,0,0,0,0,1,0,0,1,Ciconia ciconia
+A,Glossy Ibis,V1,0,0,0,0,1,0,0,1,Plegadis falcinellus
+A,Spoonbill,SP2,0,2,0,2,0,0,0,2,Platalea leucorodia
+A,Honey Buzzard,V2,0,0,0,0,2,0,0,2,Pernis apivorus
+A,Black Kite,V1,0,0,0,0,1,0,0,1,Milvus migrans
+A,Red Kite,P4; FB1,0,0,1,4,0,1,0,4,Milvus milvus
+B,White-tailed Eagle,V1,0,0,0,0,1,0,0,1,Haliaeetus albicilla
+A,Marsh Harrier,P4,0,0,0,4,0,0,0,4,Circus aeruginosus
+A,Hen Harrier,WP3,3,0,0,3,0,0,0,3,Circus cyaneus
+A,Pallid Harrier,V1,0,0,0,0,1,0,0,1,Circus macrourus
+A,Montagu's Harrier,V1,0,0,0,0,1,0,0,1,Circus pygargus
+A,Goshawk,V/E2-3?,0,0,0,0,2,0,2,2,Accipiter gentilis
+A,Sparrowhawk,B5,0,0,5,0,0,0,0,5,Accipiter nisus
+A,Buzzard,BP4-5,0,0,4,4,0,0,0,4,Buteo buteo
+A,Rough-legged Buzzard,WP2,2,0,0,2,0,0,0,2,Buteo lagopus
+B,Golden Eagle,V1,0,0,0,0,1,0,0,1,Aquila chrysaetos
+A,Osprey,P3; FB3,0,0,3,3,0,3,0,3,Pandion haliaetus
+A,Kestrel,B5,0,0,5,0,0,0,0,5,Falco tinnunculus
+A,Red-footed Falcon,V1,0,0,0,0,1,0,0,1,Falco vespertinus
+A,Merlin,WP3,3,0,0,3,0,0,0,3,Falco columbarius
+A,Hobby,SB3-4,0,3,3,0,0,0,0,3,Falco subbuteo
+A,Peregrine,WP4; B3,4,0,3,4,0,0,0,4,Falco peregrinus
+A,Water Rail,WP4; B2,4,0,2,4,0,0,0,4,Rallus aquaticus
+A,Spotted Crake,P2,0,0,0,2,0,0,0,2,Porzana porzana
+B,Little Crake,V1,0,0,0,0,1,0,0,1,Porzana parva
+A,Baillon's Crake,V1,0,0,0,0,1,0,0,1,Porzana pusilla
+A,Corncrake,V2,0,0,0,0,2,0,0,2,Crex crex
+A,Moorhen,B6,0,0,6,0,0,0,0,6,Gallinula chloropus
+A,Coot,W6; B5,6,0,5,0,0,0,0,6,Fulica atra
+A,Common Crane,V1,0,0,0,0,1,0,0,1,Grus grus
+A,Oystercatcher,P4; B3,0,0,3,4,0,0,0,4,Haematopus ostralegus
+A,Black-winged Stilt,V1,0,0,0,0,1,0,0,1,Himantopus himantopus
+A,Avocet,P2-3; B1,0,0,1,2,0,0,0,2,Recurvirostra avosetta
+A,Stone Curlew,V1,0,0,0,0,1,0,0,1,Burhinus oedicnemus
+B,Cream-coloured Courser,V1,0,0,0,0,1,0,0,1,Cursorius cursor
+A,Collared Pratincole,V1,0,0,0,0,1,0,0,1,Glareola pratincola
+A,Black-winged Pratincole,V1,0,0,0,0,1,0,0,1,Glareola nordmanni
+A,Little Ringed Plover,SBP4,0,4,4,4,0,0,0,4,Charadrius dubius
+A,Ringed Plover,P5; B3,0,0,3,5,0,0,0,5,Charadrius hiaticula
+A,Killdeer,V1,0,0,0,0,1,0,0,1,Charadrius vociferus
+A,Kentish Plover,V1,0,0,0,0,1,0,0,1,Charadrius alexandrinus
+A,Dotterel,P2,0,0,0,2,0,0,0,2,Charadrius morinellus
+A,American Golden Plover,V1,0,0,0,0,1,0,0,1,Pluvialis dominica
+A,Golden Plover,WP6,6,0,0,6,0,0,0,6,Pluvialis apricaria
+A,Grey Plover,WP3,3,0,0,3,0,0,0,3,Pluvialis squatarola
+A,Lapwing,W7; B5,7,0,5,0,0,0,0,7,Vanellus vanellus
+A,Knot,P3; W2,2,0,0,3,0,0,0,3,Calidris canutus
+A,Sanderling,P3-4,0,0,0,3,0,0,0,3,Calidris alba
+A,Little Stint,P4; W2,2,0,0,4,0,0,0,4,Calidris minuta
+A,Temminck's Stint,P2,0,0,0,2,0,0,0,2,Calidris temminckii
+A,White-rumped Sandpiper,V1,0,0,0,0,1,0,0,1,Calidris fuscicollis
+A,Baird's Sandpiper,V1,0,0,0,0,1,0,0,1,Calidris bairdii
+A,Pectoral Sandpiper,P2,0,0,0,2,0,0,0,2,Calidris melanotos
+A,Curlew Sandpiper,P4,0,0,0,4,0,0,0,4,Calidris ferruginea
+A,Stilt Sandpiper,V1,0,0,0,0,1,0,0,1,Calidris himantopus
+A,Purple Sandpiper,V1,0,0,0,0,1,0,0,1,Calidris maritima
+A,Dunlin,WP4-5,4,0,0,4,0,0,0,4,Calidris alpina
+A,Broad-billed Sandpiper,V1,0,0,0,0,1,0,0,1,Calidris falcinellus
+A,Buff-breasted Sandpiper,V1,0,0,0,0,1,0,0,1,Calidris subruficollis
+A,Ruff,WP4,4,0,0,4,0,0,0,4,Calidris pugnax
+A,Jack Snipe,WP4,4,0,0,4,0,0,0,4,Lymnocryptes minimus
+A,Snipe,WP5; B2,5,0,2,5,0,0,0,5,Gallinago gallinago
+B,Great Snipe,V1,0,0,0,0,1,0,0,1,Gallinago media
+A,Long-billed Dowitcher,V1,0,0,0,0,1,0,0,1,Limnodromus scolopaceus
+A,Woodcock,W4-5; B4,4,0,4,0,0,0,0,4,Scolopax rusticola
+A,Black-tailed Godwit,P5; W2,2,0,0,5,0,0,0,5,Limosa limosa
+A,Bar-tailed Godwit,P3-4; W2,2,0,0,3,0,0,0,3,Limosa lapponica
+A,Whimbrel,P4,0,0,0,4,0,0,0,4,Numenius phaeopus
+A,Curlew,P4; W3; B2-3,3,0,2,4,0,0,0,4,Numenius arquata
+A,Spotted Redshank,P3-4,0,0,0,3,0,0,0,3,Tringa erythropus
+A,Redshank,P5; W4; B3,4,0,3,5,0,0,0,5,Tringa totanus
+A,Marsh Sandpiper,V1,0,0,0,0,1,0,0,1,Tringa stagnatilis
+A,Greenshank,P4,0,0,0,4,0,0,0,4,Tringa nebularia
+A,Lesser Yellowlegs,V1,0,0,0,0,1,0,0,1,Tringa flavipes
+A,Green Sandpiper,P5; W4,4,0,0,5,0,0,0,5,Tringa ochropus
+A,Wood Sandpiper,P3,0,0,0,3,0,0,0,3,Tringa glareola
+A,Common Sandpiper,P5; W2,2,0,0,5,0,0,0,5,Actitis hypoleucos
+A,Spotted Sandpiper,V1,0,0,0,0,1,0,0,1,Actitis macularius
+A,Turnstone,P4,0,0,0,4,0,0,0,4,Arenaria interpres
+A,Wilson's Phalarope,V1,0,0,0,0,1,0,0,1,Phalaropus tricolor
+A,Red-necked Phalarope,P2,0,0,0,2,0,0,0,2,Phalaropus lobatus
+A,Grey Phalarope,P2,0,0,0,2,0,0,0,2,Phalaropus fulicarius
+A,Pomarine Skua,V1,0,0,0,0,1,0,0,1,Stercorarius pomarinus
+A,Arctic Skua,P2,0,0,0,2,0,0,0,2,Stercorarius parasiticus
+A,Long-tailed Skua,V1,0,0,0,0,1,0,0,1,Stercorarius longicaudus
+A,Great Skua,P2,0,0,0,2,0,0,0,2,Stercorarius skua
+A,Mediterranean Gull,WP4,4,0,0,4,0,0,0,4,Ichthyaetus melanocephalus
+A,Laughing Gull,V1,0,0,0,0,1,0,0,1,Leucophaeus atricilla
+A,Franklin's Gull,V1,0,0,0,0,1,0,0,1,Leucophaeus pipixcan
+A,Little Gull,P4; W2-3,2,0,0,4,0,0,0,4,Hydrocoloeus minutus
+A,Sabine's Gull,V1,0,0,0,0,1,0,0,1,Xema sabini
+A,Black-headed Gull,W7; B4,7,0,4,0,0,0,0,7,Chroicocephalus ridibundus
+A,Ring-billed Gull,V1,0,0,0,0,1,0,0,1,Larus delawarensis
+A,Common Gull,W7; P5-6,7,0,0,5,0,0,0,7,Larus canus
+A,Lesser Black-backed Gull,WP6,6,0,0,6,0,0,0,6,Larus fuscus
+A,Caspian Gull,WP4,4,0,0,4,0,0,0,4,Larus cachinnans
+A,Yellow-legged Gull,WP4,4,0,0,4,0,0,0,4,Larus michahellis
+A,Herring Gull,W6; P3-4,6,0,0,3,0,0,0,6,Larus argentatus
+A,Iceland Gull,W2-3,2,0,0,0,0,0,0,2,Larus glaucoides
+A,Glaucous Gull,W2-3,2,0,0,0,0,0,0,2,Larus hyperboreus
+A,Great Black-backed Gull,W5; P3-4,5,0,0,3,0,0,0,5,Larus marinus
+A,Kittiwake,P3,0,0,0,3,0,0,0,3,Rissa tridactyla
+A,Bridled Tern,V1,0,0,0,0,1,0,0,1,Onychoprion anaethetus
+A,Little Tern,P3,0,0,0,3,0,0,0,3,Sternula albifrons
+A,Caspian Tern,V1,0,0,0,0,1,0,0,1,Hydroprogne caspia
+A,Whiskered Tern,V1,0,0,0,0,1,0,0,1,Chlidonias hybrida
+A,Black Tern,P4,0,0,0,4,0,0,0,4,Chlidonias niger
+A,White-winged Black Tern,V2,0,0,0,0,2,0,0,2,Chlidonias leucopterus
+A,Sandwich Tern,P3,0,0,0,3,0,0,0,3,Sterna sandvicensis
+A,Common Tern,P4-5; B4,0,0,4,4,0,0,0,4,Sterna hirundo
+A,Roseate Tern,V1,0,0,0,0,1,0,0,1,Sterna dougallii
+A,Arctic Tern,P4-5,0,0,0,4,0,0,0,4,Sterna paradisaea
+A,Guillemot,V1,0,0,0,0,1,0,0,1,Uria aalge
+A,Razorbill,V1,0,0,0,0,1,0,0,1,Alca torda
+A,Little Auk,W2,2,0,0,0,0,0,0,2,Alle alle
+A,Puffin,V1,0,0,0,0,1,0,0,1,Fratercula arctica
+B,Pallas's Sandgrouse,V1,0,0,0,0,1,0,0,1,Syrrhaptes paradoxus
+C,Feral Pigeon,FB6,0,0,6,0,0,6,0,6,Columba livia
+A,Stock Dove,B6,0,0,6,0,0,0,0,6,Columba oenas
+A,Woodpigeon,B7,0,0,7,0,0,0,0,7,Columba palumbus
+A,Collared Dove,B6,0,0,6,0,0,0,0,6,Streptopelia decaocto
+A,Turtle Dove,SB4,0,4,4,0,0,0,0,4,Streptopelia turtur
+A,Cuckoo,SB5,0,5,5,0,0,0,0,5,Cuculus canorus
+A,Barn Owl,B4,0,0,4,0,0,0,0,4,Tyto alba
+C,Little Owl,FB5,0,0,5,0,0,5,0,5,Athene noctua
+A,Tawny Owl,B5,0,0,5,0,0,0,0,5,Strix aluco
+A,Long-eared Owl,W3; B2,3,0,2,0,0,0,0,3,Asio otus
+A,Short-eared Owl,W4,4,0,0,0,0,0,0,4,Asio flammeus
+A,Nightjar,SP2-3,0,2,0,2,0,0,0,2,Caprimulgus europaeus
+A,Swift,SB6,0,6,6,0,0,0,0,6,Apus apus
+A,Alpine Swift,V1,0,0,0,0,1,0,0,1,Tachymarptis melba
+A,Kingfisher,B4,0,0,4,0,0,0,0,4,Alcedo atthis
+A,Bee-eater,V1,0,0,0,0,1,0,0,1,Merops apiaster
+A,Roller,V1,0,0,0,0,1,0,0,1,Coracias garrulus
+A,Hoopoe,V2,0,0,0,0,2,0,0,2,Upupa epops
+A,Wryneck,V2,0,0,0,0,2,0,0,2,Jynx torquilla
+A,Green Woodpecker,B5,0,0,5,0,0,0,0,5,Picus viridis
+A,Great Spotted Woodpecker,B5,0,0,5,0,0,0,0,5,Dendrocopos major
+A,Lesser Spotted Woodpecker,B4,0,0,4,0,0,0,0,4,Dryobates minor
+A,Wood Lark,P2,0,0,0,2,0,0,0,2,Lullula arborea
+A,Sky Lark,BWP6,6,0,6,6,0,0,0,6,Alauda arvensis
+A,Shore Lark,V1,0,0,0,0,1,0,0,1,Eremophila alpestris
+A,Sand Martin,SB5,0,5,5,0,0,0,0,5,Riparia riparia
+A,Crag Martin,V1,0,0,0,0,1,0,0,1,Ptyonoprogne rupestris
+A,Swallow,SB6,0,6,6,0,0,0,0,6,Hirundo rustica
+A,Red-rumped Swallow,V1,0,0,0,0,1,0,0,1,Cecropis daurica
+A,House Martin,SB6,0,6,6,0,0,0,0,6,Delichon urbicum
+A,Richard's Pipit,V1,0,0,0,0,1,0,0,1,Anthus richardi
+A,Tree Pipit,SB4,0,4,4,0,0,0,0,4,Anthus trivialis
+A,Meadow Pipit,P6; W5; B4,5,0,4,6,0,0,0,6,Anthus pratensis
+A,Red-throated Pipit,V1,0,0,0,0,1,0,0,1,Anthus cervinus
+A,Water Pipit,WP2,2,0,0,2,0,0,0,2,Anthus spinoletta
+A,Rock Pipit,WP3,3,0,0,3,0,0,0,3,Anthus petrosus
+A,Yellow Wagtail,SB4; P5,0,4,4,5,0,0,0,5,Motacilla flava
+A,Citrine Wagtail,V1,0,0,0,0,1,0,0,1,Motacilla citreola
+A,Grey Wagtail,B4,0,0,4,0,0,0,0,4,Motacilla cinerea
+A,Pied Wagtail,B6,0,0,6,0,0,0,0,6,Motacilla alba
+A,Waxwing,W2-3,2,0,0,0,0,0,0,2,Bombycilla garrulus
+A,Dipper,V1,0,0,0,0,1,0,0,1,Cinclus cinclus
+A,Wren,B7,0,0,7,0,0,0,0,7,Troglodytes troglodytes
+A,Dunnock,B7,0,0,7,0,0,0,0,7,Prunella modularis
+A,Robin,B7,0,0,7,0,0,0,0,7,Erithacus rubecula
+A,Nightingale,SB4,0,4,4,0,0,0,0,4,Luscinia megarhynchos
+A,Bluethroat,V1,0,0,0,0,1,0,0,1,Luscinia svecica
+A,Red-flanked Bluetail,V1,0,0,0,0,1,0,0,1,Tarsiger cyanurus
+A,Black Redstart,WP3; B2,3,0,2,3,0,0,0,3,Phoenicurus ochruros
+A,Redstart,SP4; B2,0,4,2,4,0,0,0,4,Phoenicurus phoenicurus
+A,Whinchat,P4; B2,0,0,2,4,0,0,0,4,Saxicola rubetra
+A,Stonechat,WP4,4,0,0,4,0,0,0,4,Saxicola rubicola
+A,Wheatear,P4; B1,0,0,1,4,0,0,0,4,Oenanthe oenanthe
+A,Ring Ouzel,P3-4,0,0,0,3,0,0,0,3,Turdus torquatus
+A,Blackbird,B7,0,0,7,0,0,0,0,7,Turdus merula
+A,Fieldfare,W6; S2,6,2,0,0,0,0,0,6,Turdus pilaris
+A,Song Thrush,B6,0,0,6,0,0,0,0,6,Turdus philomelos
+A,Redwing,W6,6,0,0,0,0,0,0,6,Turdus iliacus
+A,Mistle Thrush,B6,0,0,6,0,0,0,0,6,Turdus viscivorus
+A,Cetti's Warbler,WP2-3,2,0,0,2,0,0,0,2,Cettia cetti
+A,Grasshopper Warbler,SB4,0,4,4,0,0,0,0,4,Locustella naevia
+A,Savi's Warbler,V1,0,0,0,0,1,0,0,1,Locustella luscinioides
+B,Aquatic Warbler,V1,0,0,0,0,1,0,0,1,Acrocephalus paludicola
+A,Sedge Warbler,SB6,0,6,6,0,0,0,0,6,Acrocephalus schoenobaenus
+A,Marsh Warbler,V1,0,0,0,0,1,0,0,1,Acrocephalus palustris
+A,Reed Warbler,SB5,0,5,5,0,0,0,0,5,Acrocephalus scirpaceus
+A,Great Reed Warbler,V1,0,0,0,0,1,0,0,1,Acrocephalus arundinaceus
+A,Icterine Warbler,V1,0,0,0,0,1,0,0,1,Hippolais icterina
+A,Blackcap,SB6; W4,4,6,6,0,0,0,0,6,Sylvia atricapilla
+A,Garden Warbler,SB5,0,5,5,0,0,0,0,5,Sylvia borin
+A,Lesser Whitethroat,SB5,0,5,5,0,0,0,0,5,Sylvia curruca
+A,Whitethroat,SB6,0,6,6,0,0,0,0,6,Sylvia communis
+A,Greenish Warbler,V1,0,0,0,0,1,0,0,1,Phylloscopus trochiloides
+A,Yellow-browed Warbler,V1,0,0,0,0,1,0,0,1,Phylloscopus inornatus
+A,Bonelli's Warbler,V1,0,0,0,0,1,0,0,1,Phylloscopus bonelli
+A,Wood Warbler,P3; B2,0,0,2,3,0,0,0,3,Phylloscopus sibilatrix
+A,Chiffchaff,SB6; W3-4,3,6,6,0,0,0,0,6,Phylloscopus collybita
+A,Willow Warbler,SB7,0,7,7,0,0,0,0,7,Phylloscopus trochilus
+A,Goldcrest,B5-6,0,0,5,0,0,0,0,5,Regulus regulus
+A,Firecrest,WP2,2,0,0,2,0,0,0,2,Regulus ignicapilla
+A,Spotted Flycatcher,SB4,0,4,4,0,0,0,0,4,Muscicapa striata
+A,Pied Flycatcher,P2-3; B1,0,0,1,2,0,0,0,2,Ficedula hypoleuca
+A,Bearded Tit,WP2,2,0,0,2,0,0,0,2,Panurus biarmicus
+A,Long-tailed Tit,B6,0,0,6,0,0,0,0,6,Aegithalos caudatus
+A,Marsh Tit,B5,0,0,5,0,0,0,0,5,Poecile palustris
+A,Willow Tit,B6,0,0,6,0,0,0,0,6,Poecile montana
+A,Coal Tit,B6,0,0,6,0,0,0,0,6,Periparus ater
+A,Blue Tit,B7,0,0,7,0,0,0,0,7,Cyanistes caeruleus
+A,Great Tit,B7,0,0,7,0,0,0,0,7,Parus major
+A,Nuthatch,B5,0,0,5,0,0,0,0,5,Sitta europaea
+A,Treecreeper,B6,0,0,6,0,0,0,0,6,Certhia familiaris
+A,Golden Oriole,SP2,0,2,0,2,0,0,0,2,Oriolus oriolus
+A,Red-backed Shrike,V1,0,0,0,0,1,0,0,1,Lanius collurio
+A,Great Grey Shrike,W2,2,0,0,0,0,0,0,2,Lanius excubitor
+A,Woodchat Shrike,V1,0,0,0,0,1,0,0,1,Lanius senator
+A,Jay,B5,0,0,5,0,0,0,0,5,Garrulus glandarius
+A,Magpie,B6,0,0,6,0,0,0,0,6,Pica pica
+A,Nutcracker,V1,0,0,0,0,1,0,0,1,Nucifraga caryocatactes
+A,Jackdaw,B6,0,0,6,0,0,0,0,6, Coloeus monedula
+A,Rook,B7,0,0,7,0,0,0,0,7,Corvus frugilegus
+A,Carrion Crow,B6,0,0,6,0,0,0,0,6,Corvus corone
+A,Hooded Crow,V2,0,0,0,0,2,0,0,2,Corvus cornix
+A,Raven,WP3; B2,3,0,2,3,0,0,0,3,Corvus corax
+A,Starling,BWP7,7,0,7,7,0,0,0,7,Sturnus vulgaris
+A,Rose-coloured Starling,V1,0,0,0,0,1,0,0,1,Pastor roseus
+A,House Sparrow,B6,0,0,6,0,0,0,0,6,Passer domesticus
+A,Tree Sparrow,B5,0,0,5,0,0,0,0,5,Passer montanus
+A,Chaffinch,B7,0,0,7,0,0,0,0,7,Fringilla coelebs
+A,Brambling,WP4-5,4,0,0,4,0,0,0,4,Fringilla montifringilla
+A,Greenfinch,B6-7,0,0,6,0,0,0,0,6,Chloris Chloris
+A,Goldfinch,B6,0,0,6,0,0,0,0,6,Carduelis carduelis
+A,Siskin,W5-6; B1,5,0,1,0,0,0,0,5, Spinus spinus
+A,Linnet,B6; W5,5,0,6,0,0,0,0,6,Linaria cannabina
+A,Twite,WP2,2,0,0,2,0,0,0,2,Linaria flavirostris
+A,Common Redpoll,WP2,2,0,0,2,0,0,0,2,Acanthis flammea
+A,Lesser Redpoll,WP5; B2,5,0,2,5,0,0,0,5,Acanthis cabaret
+A,Arctic Redpoll,V1,0,0,0,0,1,0,0,1,Acanthis hornemanni
+A,Common Crossbill,V2-3; B1,0,0,1,0,2,0,0,2,Loxia curvirostra
+A,Common Rosefinch,V1,0,0,0,0,1,0,0,1,Carpodacus erythrinus
+A,Bullfinch,B6,0,0,6,0,0,0,0,6,Pyrrhula pyrrhula
+A,Hawfinch,P3; B2,0,0,2,3,0,0,0,3,Coccothraustes coccothraustes
+A,Lapland Bunting,WP1,1,0,0,1,0,0,0,1,Calcarius lapponicus
+A,Snow Bunting,WP2,2,0,0,2,0,0,0,2,Plectrophenax nivalis
+A,Yellowhammer,B6,0,0,6,0,0,0,0,6,Emberiza citrinella
+A,Cirl Bunting,V1,0,0,0,0,1,0,0,1,Emberiza cirlus
+A,Reed Bunting,B6,0,0,6,0,0,0,0,6,Emberiza schoeniclus
+A,Black-headed Bunting,V1,0,0,0,0,1,0,0,1,Emberiza melanocephala
+A,Corn Bunting,B4,0,0,4,0,0,0,0,4,Emberiza calandra
