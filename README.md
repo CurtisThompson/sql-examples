@@ -6,7 +6,7 @@ This repository uses the CITES Trade Dataset to create example SQL queries. Thes
  * DISTINCT
  * WHERE
  * ORDER BY
- * ~~NULL Values~~
+ * NULL Values
  * GROUP BY
  * Aggregate Functions (MIN, MAX, SUM, etc.)
  * INNER JOIN
