@@ -1,5 +1,5 @@
 # SQL Examples
-This repository uses the CITES Trade Dataset to create example SQL queries. These queries show how to perform all of the basic SQL operations. The repository will be updated in the future to show how to do more complex queries as well.
+This repository uses the CITES Trade Dataset to create example SQL queries. These queries show how to perform all of the basic SQL operations. More advanced (or possibly intermediate) queries are performed in some notebooks to explain how to perform certain tasks, or to tell a specific story found within the data.
 
 ## Basic Examples
  * SELECT
@@ -17,6 +17,21 @@ This repository uses the CITES Trade Dataset to create example SQL queries. Thes
  * HAVING
  * ~~EXISTS~~
  * ~~CASE~~
+
+## Advanced Examples
+###Falcons
+The Falcons notebook does an exploration of records which involve the _Falco_ genus. Results are directly piped into Matplotlib functions to plot different graphs to visually show SQL data.
+ * Extracting Data For Bar and Line Graphs
+ * Inner Joins
+ * Casting Values To Data Types
+
+###Nations
+The Nations notebook looks at differences between different European territorieis in the CITES notebook, including how much they import and export, as well as what species are popular in each territory. One single query is created at the end which collates all of the data explored in the notebook so that it can be plotted on a Python Plotly choropleth.
+ * Creating and Dropping Tables
+ * Inserting Values Into Tables
+ * RANK() OVER() Function
+ * Subqueries
+ * The IN Operator
 
 
 ## Data
