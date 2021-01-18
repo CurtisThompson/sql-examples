@@ -19,6 +19,7 @@ This repository uses the CITES Trade Dataset to create example SQL queries. Thes
  * ~~CASE~~
 
 ## Advanced Examples
+
 ### Falcons
 The Falcons notebook does an exploration of records which involve the _Falco_ genus. Results are directly piped into Matplotlib functions to plot different graphs to visually show SQL data.
  * Extracting Data For Bar and Line Graphs
@@ -33,6 +34,11 @@ The Nations notebook looks at differences between different European territoriei
  * Subqueries
  * The IN Operator
 
+### Time Series
+The Time Series notebook looks at several different examples of time series problems in SQL, including:
+ * Moving Averages
+ * Running Totals
+ * Percentage Growth
 
 ## Data
 The main data used in this repository relates to animal trades tracked by CITES, and can be obtained from [the CITES website](https://trade.cites.org/en/cites_trade/#). This corresponds to the __cites__ table in the database, which has been prefiltered to only include species in the class "Aves".
