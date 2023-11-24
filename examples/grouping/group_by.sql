@@ -1,0 +1,4 @@
+SELECT Taxon, COUNT(Taxon)
+FROM cites
+GROUP BY Taxon
+ORDER BY COUNT(Taxon) DESC

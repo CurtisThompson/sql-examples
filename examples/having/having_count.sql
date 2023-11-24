@@ -1,0 +1,5 @@
+SELECT Family, COUNT(Family)
+FROM cites
+GROUP BY Family
+HAVING COUNT(Family) > 1000
+ORDER BY COUNT(Family) DESC

@@ -1,0 +1,3 @@
+SELECT DISTINCT Taxon FROM cites
+UNION ALL
+SELECT DISTINCT Taxon FROM LeicestershireBirds

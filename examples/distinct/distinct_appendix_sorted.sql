@@ -1,0 +1,3 @@
+SELECT DISTINCT Appendix
+FROM cites
+ORDER BY Appendix ASC

@@ -1,0 +1,2 @@
+SELECT DISTINCT Appendix
+FROM cites
