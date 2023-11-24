@@ -1,5 +1,5 @@
 # SQL Examples
-This repository uses the CITES Trade Dataset to create example SQL queries. These queries show how to perform all of the basic SQL operations. More advanced (or possibly intermediate) queries are performed in some notebooks to explain how to perform certain tasks, or to tell a specific story found within the data.
+This repository uses the CITES Trade Dataset to create example SQL queries. These queries show how to perform all of the basic SQL operations. More advanced (or possibly intermediate) queries are performed in extra examples to explain how to perform certain tasks or to tell a specific story found within the data.
 
 ## Basic Examples
  * SELECT
@@ -21,13 +21,13 @@ This repository uses the CITES Trade Dataset to create example SQL queries. Thes
 ## Advanced Examples
 
 ### Falcons
-The Falcons notebook does an exploration of records which involve the _Falco_ genus. Results are directly piped into Matplotlib functions to plot different graphs to visually show SQL data.
+The Falcons examples explore records which involve the _Falco_ genus. Results can be directly piped into Matplotlib functions to plot different graphs to visually show SQL data.
  * Extracting Data For Bar and Line Graphs
  * Inner Joins
  * Casting Values To Data Types
 
 ### Nations
-The Nations notebook looks at differences between different European territorieis in the CITES notebook, including how much they import and export, as well as what species are popular in each territory. One single query is created at the end which collates all of the data explored in the notebook so that it can be plotted on a Python Plotly choropleth.
+The Nations examples look at differences between European territories in the CITES table such as how much they import and export, as well as what species are popular. One single query is created at the end which collates all of the data explored.
  * Creating and Dropping Tables
  * Inserting Values Into Tables
  * RANK() OVER() Function
@@ -35,7 +35,7 @@ The Nations notebook looks at differences between different European territoriei
  * The IN Operator
 
 ### Time Series
-The Time Series notebook looks at several different examples of time series problems in SQL, including:
+The Time Series examples look at several different time series problems in SQL, including:
  * Moving Averages
  * Running Totals
  * Percentage Growth
